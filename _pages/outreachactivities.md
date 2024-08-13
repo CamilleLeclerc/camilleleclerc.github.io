@@ -24,6 +24,10 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Interviews**</span></span>
 
+* Interview on warming and eutrophication in freshwater ecosystems. Interview conducted by Julien Leprovost (GoodPlanet Mag') on August 13, 2024. <a href="https://www.goodplanet.info/" target="_blank" style="color:#21908C;">*Available soon*</a>.
+
+* Interview about the effects of warming on the freshwater aquatic food chain. Interview conducted by Léa Guedj (Reporterre) on August 12, 2024. <a href="https://reporterre.net/Les-poissons-predateurs-souffrent-du-rechauffement-de-l-eau" target="_blank" style="color:#21908C;">*Les poissons prédateurs souffrent du réchauffement de l’eau*</a>.
+
 * Interview on the threats facing island ecosystems. Interview conducted by Noé Bente (Epsiloon) on May 22, 2024. <a href="https://www.epsiloon.com/site/epsiloon/environnement@613@/fr/kiosque/article.html" target="_blank" style="color:#21908C;">*Le pouvoir des îles*</a>.
 
 * Interview about the discovery of new species still today and the urgency of preserving their ecosystems. Interview conducted by Virginie Lenk (Tamedia SA) on December 06, 2022. <a href="https://www.24heures.ch/les-nouvelles-especes-espoir-pour-la-biodiversite-301070641391" target="_blank" style="color:#21908C;">*COP15 de Montréal : Les nouvelles espèces, espoir pour la biodiversité?*</a>.
