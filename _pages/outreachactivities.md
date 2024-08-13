@@ -24,7 +24,7 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Interviews**</span></span>
 
-* Interview on warming and eutrophication in freshwater ecosystems. Interview conducted by Julien Leprovost (GoodPlanet Mag') on August 13, 2024. <a href="https://www.goodplanet.info/" target="_blank" style="color:#21908C;">*Available soon*</a>.
+* Interview on warming and eutrophication in freshwater ecosystems. Interview conducted by Julien Leprovost (GoodPlanet Mag') on August 13, 2024. <a href="https://www.goodplanet.info/2024/08/13/le-changement-climatique-et-leutrophisation-affaiblissent-la-biodiversite-des-milieux-deau-douce/" target="_blank" style="color:#21908C;">*Le changement climatique et l’eutrophisation affaiblissent la biodiversité des milieux d’eau douce*</a>.
 
 * Interview about the effects of warming on the freshwater aquatic food chain. Interview conducted by Léa Guedj (Reporterre) on August 12, 2024. <a href="https://reporterre.net/Les-poissons-predateurs-souffrent-du-rechauffement-de-l-eau" target="_blank" style="color:#21908C;">*Les poissons prédateurs souffrent du réchauffement de l’eau*</a>.
 
