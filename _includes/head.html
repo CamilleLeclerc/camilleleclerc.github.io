@@ -64,7 +64,7 @@ img {vertical-align: middle;}
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 20px;
+  bottom: 8px;
   width: 100%;
   text-align: center;
 }
@@ -108,6 +108,34 @@ img {vertical-align: middle;}
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
+}
+
+/* Parade Container */
+.parade-container {
+    overflow: hidden;  /* Hide overflow to create a clean boundary */
+    white-space: nowrap;  /* Prevent line breaks */
+    width: 100%;  /* Full width */
+    position: relative;  /* Position relative for any absolute children */
+}
+
+.parade {
+    display: inline-block;  /* Keep elements in a line */
+    animation: scroll 30s linear infinite;  /* Control speed of scrolling */
+}
+
+.parade img {
+    height: 100px;  /* Set height of images */
+    margin-right: 10px;  /* Space between images */
+}
+
+/* Animation for scrolling */
+@keyframes scroll {
+    from {
+        transform: translateX(0);  /* Start from the left */
+    }
+    to {
+        transform: translateX(-100%);  /* Move to the left completely */
+    }
 }
 </style>
 
