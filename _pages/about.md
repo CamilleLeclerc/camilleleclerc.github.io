@@ -31,13 +31,11 @@ biogeography ; community ecology ; conservation biology ; food-web ecology ; glo
 <center>
 
 <div class="mySlides fade">
-  <img src="/images/wordcloud_google_scholar.png" style="width:60%">
-  <div class="text"><font size = '3.5' color = "#000000">My Google Scholar Word Cloud. Make your own <a href="https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/" target="_blank" style="color:#3B528B;">here</a></font></div>
+  <img src="/images/wordcloud_google_scholar.png" style="width:75%">
 </div>
 
 <div class="mySlides fade">
   <img src="/images/collaborations.png" style="width:60%">
-  <div class="text"><font size = '3.5' color = "#000000">Overview of my collaborations.</font></div>
 </div>
 
 </center>
