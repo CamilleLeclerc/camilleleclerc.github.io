@@ -21,10 +21,10 @@ author_profile: true
 As the current biodiversity crisis intensifies, it is crucial to deepen our understanding of the processes threatening biodiversity in order to devise effective conservation strategies. My research focuses on examining how various threats co-occur and interact with biodiversity, as well as their impacts on its multiple dimensions—taxonomic, functional, and phylogenetic diversity.
 
 **Selected publications:**  
-Leclerc *et al.* (2022). *Divers. Distrib.*, 28 (12): 2754-2764. $|$
+Leclerc *et al.* (2022). *Divers. Distrib.*, 28 (12): 2754-2764. |
 [![DDI](https://img.shields.io/badge/DOI-10.1111/ddi.13441-21908C.svg)](https://doi.org/10.1111/ddi.13441){:target="_blank"}<br>
-Leclerc *et al.* (2020). *Divers. Distrib.*, 26 (4): 402-414. $|$ [![DD](https://img.shields.io/badge/DOI-10.1111/ddi.13024-21908C.svg)](https://doi.org/10.1111/ddi.13024){:target="_blank"}<br>
-Leclerc *et al.* (2018). *Sci. Rep.*, 8:6393. $|$ [![SR](https://img.shields.io/badge/DOI-10.1038/s41598--018--24733--0-21908C.svg)](https://doi.org/10.1038/s41598-018-24733-0){:target="_blank"}<br>
+Leclerc *et al.* (2020). *Divers. Distrib.*, 26 (4): 402-414. | [![DD](https://img.shields.io/badge/DOI-10.1111/ddi.13024-21908C.svg)](https://doi.org/10.1111/ddi.13024){:target="_blank"}<br>
+Leclerc *et al.* (2018). *Sci. Rep.*, 8:6393. | [![SR](https://img.shields.io/badge/DOI-10.1038/s41598--018--24733--0-21908C.svg)](https://doi.org/10.1038/s41598-018-24733-0){:target="_blank"}<br>
 
 
 ------
