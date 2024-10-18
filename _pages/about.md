@@ -31,5 +31,13 @@ Here is my Google Scholar Word Cloud: <br>
     class="center">
 Make your own  <a href="https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/" target="_blank" style="color:#3B528B;">here</a>. <br>
 
+<div class="parade-container">
+    <div class="parade">
+        <img src="/images/wordcloud_google_scholar.png" alt="Wordcloud">
+        <img src="/images/collaborations.png" alt="Collaborations">
+        <!-- Add more images as needed -->
+    </div>
+</div>
+
 <img class="wp-image-817" style="width:340px;" src="images/logo_institut.png" alt="logo_institut" class="inline"/>
 
