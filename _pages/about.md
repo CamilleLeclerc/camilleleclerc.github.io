@@ -31,13 +31,62 @@ Here is my Google Scholar Word Cloud: <br>
     class="center">
 Make your own  <a href="https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/" target="_blank" style="color:#3B528B;">here</a>. <br>
 
-<div class="parade-container">
-    <div class="parade">
-        <img src="/images/wordcloud_google_scholar.png" alt="Wordcloud">
-        <img src="/images/collaborations.png" alt="Collaborations">
-        <!-- Add more images as needed -->
-    </div>
+
+<div class="slideshow-container">
+
+<center>
+
+<div class="mySlides fade">
+  <img src="/images/wordcloud_google_scholar.png" style="width:80%">
+  <div class="text"><font size = '3.5' color = "#000000">My Google Scholar Word Cloud. Make your own <a href="https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/" target="_blank" style="color:#3B528B;">here</a></font></div>
 </div>
+
+<div class="mySlides fade">
+  <img src="/images/collaborations.png" style="width:80%">
+  <div class="text"><font size = '3.5' color = "#000000">Overview of my collaborations.</font></div>
+</div>
+
+</center>
+
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+
+</div>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+</div>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
 
 <img class="wp-image-817" style="width:340px;" src="images/logo_institut.png" alt="logo_institut" class="inline"/>
 
