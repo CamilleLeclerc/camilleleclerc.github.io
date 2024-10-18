@@ -40,8 +40,8 @@ Understanding whether and how environmental conditions can affect biodiversity i
 
 
 **Selected publications:**  
-Bonnaffé *et al.* (2024) *Ecol. Lett.*, 27 (8): e14480. $|$ [![EL](https://img.shields.io/badge/DOI-10.1111/ele.14480-21908C.svg)](https://doi.org/10.1111/ele.14480){:target="_blank"}<br>
-Leclerc *et al.* (2023) *Glob. Chang. Biol.*, 29 (9): 2450-2465. $|$ [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.16642-21908C.svg)](https://doi.org/10.1111/gcb.16642){:target="_blank"}<br>
+Bonnaffé *et al.* (2024) *Ecol. Lett.*, 27 (8): e14480. | [![EL](https://img.shields.io/badge/DOI-10.1111/ele.14480-21908C.svg)](https://doi.org/10.1111/ele.14480){:target="_blank"}<br>
+Leclerc *et al.* (2023) *Glob. Chang. Biol.*, 29 (9): 2450-2465. | [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.16642-21908C.svg)](https://doi.org/10.1111/gcb.16642){:target="_blank"}<br>
 
 ------
 
@@ -55,6 +55,6 @@ Leclerc *et al.* (2023) *Glob. Chang. Biol.*, 29 (9): 2450-2465. $|$ [![GCB](htt
 With anthropogenic environmental changes posing growing threats to biodiversity and ecosystem functions globally, evaluating the vulnerability of species and ecosystems—considering exposure, sensitivity, and adaptive capacity—is essential for crafting effective conservation strategies. To address this challenge, I examine these vulnerability components both collectively and individually, employing approaches that integrate these elements to assess biodiversity vulnerability comprehensively.
 
 **Selected publications:**  
-Renault *et al.* (2022) *Glob. Chang. Biol.*, 28 (20): 5914-5927. $|$ [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.16338-21908C.svg)](https://doi.org/10.1111/gcb.16338){:target="_blank"}<br>
-Marino *et al.* (2022) *Glob. Chang. Biol.*, 28 (3): 1077-1090. $|$ [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.15941-21908C.svg)](https://doi.org/10.1111/gcb.15941){:target="_blank"}<br>
-Leclerc *et al.* (2020). *Nat. Commun.*, 11: 4943. $|$ [![NC](https://img.shields.io/badge/DOI-10.1038/s41467--020--18740--x-21908C.svg)](https://doi.org/10.1038/s41467-020-18740-x){:target="_blank"}<br>
+Renault *et al.* (2022) *Glob. Chang. Biol.*, 28 (20): 5914-5927. | [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.16338-21908C.svg)](https://doi.org/10.1111/gcb.16338){:target="_blank"}<br>
+Marino *et al.* (2022) *Glob. Chang. Biol.*, 28 (3): 1077-1090. | [![GCB](https://img.shields.io/badge/DOI-10.1111/gcb.15941-21908C.svg)](https://doi.org/10.1111/gcb.15941){:target="_blank"}<br>
+Leclerc *et al.* (2020). *Nat. Commun.*, 11: 4943. | [![NC](https://img.shields.io/badge/DOI-10.1038/s41467--020--18740--x-21908C.svg)](https://doi.org/10.1038/s41467-020-18740-x){:target="_blank"}<br>
