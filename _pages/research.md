@@ -10,22 +10,15 @@ author_profile: true
 # **BIODIVERSITY & GLOBAL CHANGE DRIVERS**
 
 ------
-<h2 id="essai">
-    <span style="font-variant:small-caps;">
-        <span style="color:#440154;">
-            <strong>Exploring Global Change Patterns and Their Implications for Biodiversity</strong>
-        </span>
-    </span>
-</h2>
 
-<p><p class="aligncenter">
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Exploring Global Change Patterns and Their Implications for Biodiversity**</span></span>
+<p class="aligncenter">
 <img src="/images/gcbiodivpatternsimpacts_band.png"
     alt="centered image"
     width="50%" height="50%" alt="A 100x100 image">
 </p>
 
 As the current biodiversity crisis intensifies, it is crucial to deepen our understanding of the processes threatening biodiversity in order to devise effective conservation strategies. My research focuses on examining how various threats co-occur and interact with biodiversity, as well as their impacts on its multiple dimensions—taxonomic, functional, and phylogenetic diversity.
-</p>
 
 **Selected publications:**  
 Leclerc *et al.* (2022). *Divers. Distrib.*, 28 (12): 2754-2764. |

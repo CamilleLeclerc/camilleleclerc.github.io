@@ -6,12 +6,3 @@
 </nav>
 </aside>
 
-<div id="toc">
-    <h2>On this page</h2>
-    <ul>
-        <li><a href="#research-interests">Research Interests</a></li>
-        <li><a href="#publications">Publications</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <!-- Add more sections as needed -->
-    </ul>
-</div>
