@@ -35,7 +35,7 @@ biogeography ; community ecology ; conservation biology ; food-web ecology ; glo
 </div>
 
 <div class="mySlides fade">
-  <img src="/images/wordcloud_google_scholar.png" style="width:75%">
+  <img src="/images/wordcloud_google_scholar.png" style="width:60%">
 </div>
 
 </center>
