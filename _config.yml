@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Fellow"
   location         : "Clermont-ferrand, FR"
-  employer         : "CNRS"
+  employer         : #"CNRS"
   uri              : # URL
   email            : "camille.leclerc@uca.fr" 
 
