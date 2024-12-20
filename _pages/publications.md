@@ -55,6 +55,8 @@ Bellard C., <span style="color:#3B528B">**Leclerc C.**</span> & Courchamp F. (20
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Technical reports**</span></span>
 
+Crabot J., <span style="color:#3B528B">**Leclerc C.**</span>, Mauchamp A., Gore O., Bergerot B., Paillisson J.-M. & Bonis A. (2024). Programme d’étude sur l’évolution de la biodiversité en lien avec la gestion de l’eau dans le Marais poitevin - Résultats des analyses de données réalisées en 2023 et 2024. *Rapport d’étude*, 135 pages.<br>
+
 <span style="color:#3B528B">**Leclerc C.**</span>, Frossard V. & Sentis A. (2023). Réseaux trophiques des plans d’eau métropolitains : Le changement climatique impact les structures trophiques et de taille des communautés de piscicoles lacustres, suivies dans le cadre de la mise en application de la Directive Cadre sur l’Eau, par le biais d'effets induits par les invasions biologiques. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 29 pages.<br>
 
 <span style="color:#3B528B">**Leclerc C.**</span>, Frossard V. & Sentis A. (2022). Réseaux trophiques des plans d’eau métropolitains : Impact des facteurs environnementaux sur la structure des réseaux trophiques reconstruite à partir des données de suivi obtenues dans le cadre de la mise en application de la Directive Cadre sur l’Eau. *Rapport d’étude, OFB/INRAE/USMB/Pôle ECLA*, 37 pages.<br>
